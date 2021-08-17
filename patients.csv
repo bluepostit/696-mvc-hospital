@@ -1,0 +1,6 @@
+id,name,id_number,room_id,cured
+1,sally,123,1,false
+2,steve,234,1,false
+3,mary,999,2,true
+4,sally,876,2,false
+5,mike,8764,2,false
